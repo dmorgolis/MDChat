@@ -70,6 +70,7 @@ reader.readAsDataURL(imageFile);
 startPage.style.display = 'none';
 chatContainer.style.display = 'flex';
 }
+intervalId = setInterval(getMessages, 500)
 }
 
 function logout() {
