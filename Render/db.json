@@ -1,0 +1,82 @@
+{
+  "chats": [
+    {
+      "user": "itay",
+      "text": "hi",
+      "time": "19:10:56:656",
+      "id": 1
+    },
+    {
+      "user": "itay",
+      "text": "how are you ?",
+      "time": "19:11:01:007",
+      "id": 2
+    },
+    {
+      "user": "jinji",
+      "text": "hi",
+      "time": "19:12:30:448",
+      "id": 3
+    },
+    {
+      "user": "itay",
+      "text": "you awar",
+      "time": "19:12:57:336",
+      "id": 4
+    },
+    {
+      "user": "itay",
+      "text": "hi",
+      "time": "12:14:14:630",
+      "id": 5
+    },
+    {
+      "user": "itay",
+      "text": "123",
+      "time": "13:06:28:512",
+      "id": 6
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "delectus aut autem!!",
+      "completed": "Yes"
+    },
+    {
+      "title": "et porro tempora",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "et porro tempora!",
+      "completed": "false"
+    },
+    {
+      "title": "run marathon",
+      "completed": true,
+      "id": 22
+    },
+    {
+      "title": "learn js",
+      "completed": false,
+      "id": 25
+    },
+    {
+      "title": "swim ",
+      "completed": true,
+      "id": 27
+    },
+    {
+      "title": "run",
+      "completed": "Yes",
+      "id": 28
+    }
+  ]
+}
