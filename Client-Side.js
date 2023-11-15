@@ -268,5 +268,4 @@ if (messageText.trim() !== '') {
 }
 });
 
-getMessages();
-setInterval(getMessages, 500);
+intervalId = setInterval(Push_update, 500)
